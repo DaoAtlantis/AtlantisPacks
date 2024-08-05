@@ -1,0 +1,6 @@
+@Atlantis.Poker_HostAddress = http://localhost:5062
+
+GET {{Atlantis.Poker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

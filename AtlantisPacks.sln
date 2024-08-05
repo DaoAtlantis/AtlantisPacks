@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atlantis.Soccer", "Atlantis.Soccer", "{995625A1-EBF2-40AD-BBD2-F6F85BD703FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlantis.Soccer", "Atlantis.Soccer\Atlantis.Soccer.csproj", "{E5F0808F-8CD7-438D-87A4-CE3C6E37902C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atlantis.Poker", "Atlantis.Poker", "{1E9B377A-0EDD-4513-90D2-ECA4ADAB539A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlantis.Poker", "Atlantis.Poker\Atlantis.Poker.csproj", "{A02EB54D-E540-42F6-BB6E-5051D690B499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5F0808F-8CD7-438D-87A4-CE3C6E37902C} = {995625A1-EBF2-40AD-BBD2-F6F85BD703FC}
+		{A02EB54D-E540-42F6-BB6E-5051D690B499} = {1E9B377A-0EDD-4513-90D2-ECA4ADAB539A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F0808F-8CD7-438D-87A4-CE3C6E37902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F0808F-8CD7-438D-87A4-CE3C6E37902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F0808F-8CD7-438D-87A4-CE3C6E37902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F0808F-8CD7-438D-87A4-CE3C6E37902C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02EB54D-E540-42F6-BB6E-5051D690B499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02EB54D-E540-42F6-BB6E-5051D690B499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02EB54D-E540-42F6-BB6E-5051D690B499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02EB54D-E540-42F6-BB6E-5051D690B499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
